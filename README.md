@@ -1,3 +1,4 @@
+[![](https://images.microbadger.com/badges/image/alexandzors/caddy.svg)](https://microbadger.com/images/alexandzors/caddy "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/alexandzors/caddy.svg)](https://microbadger.com/images/alexandzors/caddy "Get your own version badge on microbadger.com")
 # Caddy
 Custom docker image based on [abiosoft/caddy](https://github.com/abiosoft/caddy-docker).
 
