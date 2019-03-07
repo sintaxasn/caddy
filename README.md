@@ -1,2 +1,2 @@
 # caddy
-Custom abiosoft/caddy image
+Custom [abiosoft/caddy](https://github.com/abiosoft/caddy-docker) image
