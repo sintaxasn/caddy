@@ -16,6 +16,7 @@ The only differences are that this image is built with the following plugins:
 - [webdav](https://caddyserver.com/docs/http.webdav)
 - [cloudflare](https://caddyserver.com/docs/tls.dns.cloudflare) 
 - [googlecloud](https://caddyserver.com/docs/tls.dns.googlecloud)
+- [login](https://caddyserver.com/docs/http.login)
 
 and telemetry stats are disabled.
 
